@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Apliacion</string>
+    <string name="search">Search</string>
+    <string name="proyectos_finalizados">Proyectos Finalizados</string>
+    <string name="proyectos_en_curso">Proyectos En curso</string>
+    <string name="apuntes">Apuntes</string>
+    <string name="revisar_el_apartado_de_trabajos_pendientes">Revisar el apartado de trabajos pendientes</string>
+    <string name="revisar_nuevos_clientes">Revisar nuevos clientes</string>
+    <string name="entregar_trabajos_ya_finalizados">Entregar trabajos ya finalizados</string>
+    <string name="no_leidos">No Leidos</string>
+    <string name="todas">Todas</string>
+</resources>
